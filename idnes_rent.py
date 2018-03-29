@@ -1,24 +1,11 @@
 import sys
-#import httplib2
 import urllib3
-import psycopg2
-import psycopg2.extras
 import lxml.etree
 import time
 import datetime
-import threading
-#import psycopg2_bulk_insert
-#import psycopg2_etl_utils
-#import nike_etl
-import uuid
-import decimal
-import pickle
-import ConfigParser
 import re
-import json
 import random
 import os
-import codecs
 import smtplib
 
 http="http://"
